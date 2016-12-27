@@ -26,17 +26,17 @@ to develop a similar system please contact me and we develop it together. Otherw
 ## Use case 1:
 The client sends my data (means of transport, current position, direction, speed, ...) to the server.
 ```
-time (ms of day)  id                               gps coordinates  type    velocity (m/s)  angle or last gps coordinates
-34453019          205e460b479e2e5b48aec07710c08d50                  bicycle 6,94            30
+time (ms of day)  id                               gps coordinates     type    velocity (m/s)  angle
+34453019          205e460b479e2e5b48aec07710c08d50 50.008542/8.019861  bicycle 6,94            30
 ```
 
 ## Use case 2:
 The servers sends me data of others.
 ```
-time (ms of day)  id                               gps coordinates  type       velocity (m/s)  angle or last gps coordinates
-34453019          205e460b479e2e5b48aec07710c08d50                  pedestrian 1,38            30
-34453019          205e460b479e2e5b48aec07710c08d50                  motorbike  13,89           30
-34453019          205e460b479e2e5b48aec07710c08d50                  car        27,8            30
+time (ms of day)  id                               gps coordinates     type       velocity (m/s)  angle
+34453019          205e460b479e2e5b48aec07710c08d50 50.008542/8.019861  pedestrian 1,38            30
+34453019          205e460b479e2e5b48aec07710c08d50 50.008542/8.019861  motorbike  13,89           30
+34453019          205e460b479e2e5b48aec07710c08d50 50.008542/8.019861  car        27,8            30
 ```
 
 ## Data
