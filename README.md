@@ -1,12 +1,12 @@
-# crashprotection
-Platform to track your direction and warn you about all traffic that comes in your way.
+# CRASH PROTECTION
+Platform to track your current movement and warn you about all traffic that comes in your way.
 
 ## description
 About 3500 people were killed by accident in street traffic in the year 2016 in Germany. 100 thousands were injured and the initiators
-are inflected by their guilt. The financial costs are gigantic and have to be paid by the insurances and that meens all of us.
+are inflected by their guilt. The financial costs are gigantic and have to be paid by the insurances and that meens all of us. This project was initiated to prevent accidents and save lifes.
 
 ## Is it possible to cut down the number of accidents significally?
-I think yes - with a crash protection system that warns you.
+I think yes - with a crash protection system that warns you about things that are not in your sight.
 
 ## What should the system do?
 It should track the speed and direction of all the traffic participiants. If a crash is likly to occur a warning could probably move
